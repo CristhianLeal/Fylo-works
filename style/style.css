@@ -1,0 +1,90 @@
+.bi.bi-stack{
+  color: #c1bbef;
+}
+
+.bi.bi-stack.a-foot{
+  color: white;
+}
+
+/*para darle color al icono*/
+.icon-color{
+  color: #c1bbef;
+}
+
+.fylo-works {
+  text-decoration: none;
+  color: #399f8d;
+  padding-bottom: 2px;
+  border-bottom: 1px solid #399f8d;
+}
+
+.new{
+  margin-top: 5px;
+}
+
+.user {
+  border-radius: 100%;
+  width: 48px;
+  height: 48px;
+}
+
+.btn{
+  border-radius: 0px;
+}
+
+.conte{
+  background-color: rgb(87,89,137);
+}
+
+.title-conte{
+  color: white;
+}
+
+.p-conte{
+  color: white;
+}
+
+.foot{
+  background-color: #07043b;
+}
+
+.a-foot{
+  color: white;
+  text-decoration: none;
+}
+
+.bi.bi-telephone-outbound-fill{
+  color: white;
+}
+
+.bi.bi-envelope{
+  color: white;
+}
+
+.bi.bi-facebook{
+  color: white;
+}
+
+.bi.bi-twitter{
+  color: white;
+}
+
+.bi.bi-instagram{
+  color: white;
+}
+
+.li-foot{
+  list-style: none;
+}
+
+
+@media only screen and (min-width: 991px) {
+
+  h5 {
+    font-size: 32px;
+  }
+
+  .btnchico{
+    width: 200px !important;
+  }
+}
